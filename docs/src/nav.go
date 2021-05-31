@@ -1,6 +1,6 @@
 package main
 
-import "github.com/maxence-charriere/go-app/v9/pkg/app"
+import "github.com/gabstv/go-app/v9/pkg/app"
 
 type nav struct {
 	app.Compo

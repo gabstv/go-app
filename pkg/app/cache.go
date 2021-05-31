@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/maxence-charriere/go-app/v9/pkg/cache"
+	"github.com/gabstv/go-app/v9/pkg/cache"
 )
 
 // PreRenderCache is the interface that describes a cache that stores

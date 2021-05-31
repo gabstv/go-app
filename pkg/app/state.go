@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/maxence-charriere/go-app/v9/pkg/errors"
+	"github.com/gabstv/go-app/v9/pkg/errors"
 )
 
 // Observer is an observer that observes changes for a given state.

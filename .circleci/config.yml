@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: circleci/golang:1.15
-    working_directory: /go/src/github.com/maxence-charriere/go-app
+    working_directory: /go/src/github.com/gabstv/go-app
     steps:
       - checkout
       - run: go mod download

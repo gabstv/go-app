@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/maxence-charriere/go-app/v9/pkg/app"
-	"github.com/maxence-charriere/go-app/v9/pkg/errors"
+	"github.com/gabstv/go-app/v9/pkg/app"
+	"github.com/gabstv/go-app/v9/pkg/errors"
 )
 
 func get(ctx app.Context, path string) ([]byte, error) {

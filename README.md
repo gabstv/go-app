@@ -6,9 +6,9 @@
 
 <p align="center">
 	<a href="https://circleci.com/gh/maxence-charriere/go-app"><img src="https://circleci.com/gh/maxence-charriere/go-app.svg?style=svg" alt="Circle CI Go build"></a>
-    <a href="https://goreportcard.com/report/github.com/maxence-charriere/go-app"><img src="https://goreportcard.com/badge/github.com/maxence-charriere/go-app" alt="Go Report Card"></a>
-	<a href="https://GitHub.com/maxence-charriere/go-app/releases/"><img src="https://img.shields.io/github/release/maxence-charriere/go-app.svg" alt="GitHub release"></a>
-	<a href="https://pkg.go.dev/github.com/maxence-charriere/go-app/v9/pkg/app"><img src="https://img.shields.io/badge/dev-reference-007d9c?logo=go&logoColor=white&style=flat" alt="pkg.go.dev docs"></a>
+    <a href="https://goreportcard.com/report/github.com/gabstv/go-app"><img src="https://goreportcard.com/badge/github.com/gabstv/go-app" alt="Go Report Card"></a>
+	<a href="https://github.com/gabstv/go-app/releases/"><img src="https://img.shields.io/github/release/maxence-charriere/go-app.svg" alt="GitHub release"></a>
+	<a href="https://pkg.go.dev/github.com/gabstv/go-app/v9/pkg/app"><img src="https://img.shields.io/badge/dev-reference-007d9c?logo=go&logoColor=white&style=flat" alt="pkg.go.dev docs"></a>
     <a href="https://twitter.com/jonhymaxoo"><img alt="Twitter URL" src="https://img.shields.io/badge/twitter-@jonhymaxoo-35A9F8?logo=twitter&style=flat"></a>
     <a href="https://opencollective.com/go-app" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/go-app/all/badge.svg?label=open+collective&color=4FB9F6" /></a>
 </p>
@@ -34,7 +34,7 @@ An app created with go-app can out of the box **run in its own window**, **suppo
 
 ```sh
 go mod init
-go get -u github.com/maxence-charriere/go-app/v9/pkg/app
+go get -u github.com/gabstv/go-app/v9/pkg/app
 ```
 
 ## Declarative syntax
@@ -105,11 +105,11 @@ func main() {
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 
-<a href="https://github.com/maxence-charriere/go-app/graphs/contributors"><img src="https://opencollective.com/go-app/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/gabstv/go-app/graphs/contributors"><img src="https://opencollective.com/go-app/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 
-Become a financial contributor and help us sustain [go-app](https://github.com/maxence-charriere/go-app) development. [[Contribute](https://opencollective.com/go-app/contribute)]
+Become a financial contributor and help us sustain [go-app](https://github.com/gabstv/go-app) development. [[Contribute](https://opencollective.com/go-app/contribute)]
 
 #### Individuals
 

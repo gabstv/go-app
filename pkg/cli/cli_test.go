@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/maxence-charriere/go-app/v9/pkg/errors"
+	"github.com/gabstv/go-app/v9/pkg/errors"
 	"github.com/stretchr/testify/require"
 )
 

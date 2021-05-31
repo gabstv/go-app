@@ -10,10 +10,10 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/maxence-charriere/go-app/v9/pkg/app"
-	"github.com/maxence-charriere/go-app/v9/pkg/cli"
-	"github.com/maxence-charriere/go-app/v9/pkg/errors"
-	"github.com/maxence-charriere/go-app/v9/pkg/logs"
+	"github.com/gabstv/go-app/v9/pkg/app"
+	"github.com/gabstv/go-app/v9/pkg/cli"
+	"github.com/gabstv/go-app/v9/pkg/errors"
+	"github.com/gabstv/go-app/v9/pkg/logs"
 )
 
 const (
@@ -23,7 +23,7 @@ const (
 
 	buyMeACoffeeURL     = "https://www.buymeacoffee.com/maxence"
 	openCollectiveURL   = "https://opencollective.com/go-app"
-	githubURL           = "https://github.com/maxence-charriere/go-app"
+	githubURL           = "https://github.com/gabstv/go-app"
 	githubSponsorURL    = "https://github.com/sponsors/maxence-charriere"
 	twitterURL          = "https://twitter.com/jonhymaxoo"
 	coinbaseBusinessURL = "https://commerce.coinbase.com/checkout/851320a4-35b5-41f1-897b-74dd5ee207ae"

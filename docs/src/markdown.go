@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"path/filepath"
 
+	"github.com/gabstv/go-app/v9/pkg/app"
+	"github.com/gabstv/go-app/v9/pkg/logs"
 	"github.com/gomarkdown/markdown"
 	"github.com/gomarkdown/markdown/parser"
-	"github.com/maxence-charriere/go-app/v9/pkg/app"
-	"github.com/maxence-charriere/go-app/v9/pkg/logs"
 )
 
 type markdownPage struct {

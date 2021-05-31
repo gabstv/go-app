@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/gabstv/go-app/v9/pkg/errors"
 	"github.com/google/uuid"
-	"github.com/maxence-charriere/go-app/v9/pkg/errors"
 )
 
 const (
